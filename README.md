@@ -1,7 +1,5 @@
 # LeetCodeOnlineVoting
 
-# Online Election
-
 # Initialization (TopVotedCandidate Constructor):
 
 We initialize the times and leaders lists.
